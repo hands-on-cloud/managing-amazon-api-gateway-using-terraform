@@ -1,6 +1,6 @@
-# terraform-api-gateway
+# Managing API Gateway using Terraform
 
-Demo : Managing API Gateway using Terraform
+![Managing Amazon API Gateway using Terraform](https://hands-on.cloud/wp-content/uploads/2022/04/Managing-Amazon-API-Gateway-using-Terraform.png)
 
 This is the codebase for the demos show in this blog post : https://hands-on.cloud/managing-amazon-api-gateway-using-terraform/
 
